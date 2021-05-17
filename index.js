@@ -7,7 +7,7 @@ window.onload = () => {
   }, 1000);
 };
 function changeDueTo(now) {
-  let down = new Date("May 15, 2021 16:37:52").getTime();
+  let down = new Date("Dec 15, 2021 16:37:52").getTime();
 
   let left = generateTimeRemining(now, down);
 
